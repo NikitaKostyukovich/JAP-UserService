@@ -1,4 +1,4 @@
-package com.example.userservice.error;
+package com.example.userservice.exception;
 
 public class ErrorResponse {
     private int status;
