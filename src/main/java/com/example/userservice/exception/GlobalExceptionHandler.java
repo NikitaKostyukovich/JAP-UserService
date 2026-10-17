@@ -1,6 +1,5 @@
 package com.example.userservice.exception;
 
-import com.example.userservice.error.ErrorResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
